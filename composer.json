@@ -1,7 +1,8 @@
 {
     "name": "henryoladeji/php-jwt",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP",
-    "type": "library",
+    "type": "package",
+    "homepage": "https://github.com/henryeticom/php-jwt",
     "license": "MIT",
     "autoload": {
         "psr-4": {
