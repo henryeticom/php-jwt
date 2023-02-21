@@ -36,7 +36,9 @@ var_dump($jwt);
 
 use HenryIBG\JWT\JWT;
 
-$jwt = 'response-from-encode'
+$jwt = 'response-from-encode';
+
+$secret = 'your-secret-key';
 
 $decode = JWT::deocde($jwt, $secret);
 
