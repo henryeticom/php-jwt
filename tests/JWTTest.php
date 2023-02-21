@@ -1,6 +1,6 @@
 <?php
 
-namespace Henryoladeji\JWT;
+namespace HenryIBG\JWT;
 
 
 use PHPUnit\Framework\TestCase;
