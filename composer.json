@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "HenryIBG\\JWT\\": "src/"
+            "HenryIBG\\PHPJWT\\": "src/"
         }
     },
     "authors": [

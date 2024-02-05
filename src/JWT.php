@@ -1,6 +1,6 @@
 <?php
 
-namespace HenryIBG\JWT;
+namespace HenryEticom\PHPJWT;
 
 class JWT {
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace HenryIBG\JWT;
+namespace HenryEticom\PHPJWT;
 
 
 use PHPUnit\Framework\TestCase;
-use HenryIBG\JWT\JWT;
+use HenryEticom\PHPJWT\JWT;
 
 class JWTTest extends TestCase
 
