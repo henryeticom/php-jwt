@@ -10,7 +10,7 @@ composer require henryeticom/php-jwt
 ## Create JWT (Basic):
 ```php
 
-use HenryIBG\JWT\JWT;
+use HenryEticom\PHPJWT\JWT;
 
 $secret = 'your-secret-key';
 
@@ -34,7 +34,7 @@ var_dump($jwt);
 
 ```php
 
-use HenryIBG\JWT\JWT;
+use HenryEticom\PHPJWT\JWT;
 
 $jwt = 'response-from-encode';
 
