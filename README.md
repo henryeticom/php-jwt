@@ -40,7 +40,7 @@ $jwt = 'response-from-encode';
 
 $secret = 'your-secret-key';
 
-$decode = JWT::deocde($jwt, $secret);
+$decode = JWT::decode($jwt, $secret);
 
 var_dump($decode);
 
